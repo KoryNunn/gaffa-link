@@ -1,4 +1,4 @@
-var Gaffa = require('gaffa'),
+var Gaffa = require('gaffa');
 
 function LinkBehaviour(){}
 LinkBehaviour = Gaffa.createSpec(LinkBehaviour, Gaffa.Behaviour);
